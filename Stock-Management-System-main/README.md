@@ -4,7 +4,7 @@ Each of the project's stock records, including the Purchase Order, Receiving, an
 The management can then produce a return record when the delivered goods have faults, issues, or anything else. After saving this file, the system will immediately deduct the damaged goods from the stock availability. Last but not least, the company's sales record is a record of the stocks that its clients or customers have purchased. The stock availability will also be reduced for each stock specified in the sales record.
 
 
-For System Login check the YouTube video 
+
 #
 ![Screenshot (5)](https://user-images.githubusercontent.com/36708000/189607065-28afd173-791a-43b6-8cb5-6584fadedafe.png)
 #
